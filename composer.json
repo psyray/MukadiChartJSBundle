@@ -16,10 +16,10 @@
     "require": {
         "php": ">=5.4",
         "symfony/framework-bundle": "^2.7.22|~3.0|~4.0",
-        "twig/twig": "^1.34 || ^2.0",
+        "twig/twig": "^1.34 || ^2.0 || ^3.0",
         "doctrine/orm": "~2.4",
         "mukadi/chartjs-builder": "^1.0",
-        "doctrine/doctrine-bundle":"^1.6"
+        "doctrine/doctrine-bundle":"^1.6 || ^2.0"
     },
     "autoload" : {
         "psr-4" : {
